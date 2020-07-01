@@ -1,6 +1,6 @@
 # House-Price-Prediction-
 
-![1_KsEqnI9pITu20-sRyUOZJw](https://user-images.githubusercontent.com/34093998/86289026-621a4000-bc04-11ea-907f-faf048154228.png)
+![House-Graph](https://user-images.githubusercontent.com/34093998/86289172-ad345300-bc04-11ea-9877-d0169021a0f7.jpg)
 
 Built a model to predict Sale Price for house. There was lot to do in this dataset as it had 81 features
 
@@ -12,3 +12,6 @@ Built a model to predict Sale Price for house. There was lot to do in this datas
 - Observed that XGBoost Regressor performed well with a test score of 80%+
 
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+
+
+![1_KsEqnI9pITu20-sRyUOZJw](https://user-images.githubusercontent.com/34093998/86289026-621a4000-bc04-11ea-907f-faf048154228.png)
