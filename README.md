@@ -1,8 +1,6 @@
 # House-Price-Prediction-
 
-<img width="1100" alt="bildschirmfoto-2018-01-24-um-14-32-02" src="https://user-images.githubusercontent.com/34093998/86288899-27180c80-bc04-11ea-9f36-3473a06c07c1.png">
-![11679 4c96032809c10d54e3e216015aecf32a_XL](https://user-images.githubusercontent.com/34093998/86288905-297a6680-bc04-11ea-8c93-0547989678ed.jpg)
-
+![1_KsEqnI9pITu20-sRyUOZJw](https://user-images.githubusercontent.com/34093998/86289026-621a4000-bc04-11ea-907f-faf048154228.png)
 
 Built a model to predict Sale Price for house. There was lot to do in this dataset as it had 81 features
 
